@@ -4,4 +4,4 @@ orbs:
   # This version is more than 10 releases behind the latest one.
   slack: circleci/slack@4.10.1
   # This version is less than 10 releases behind the latest one.
-  github: circleci/github-cli@2.2.0
+  github: circleci/github-cli@2.4.0
